@@ -1,4 +1,4 @@
-# modular4
+# Calculator
 The calculator watchface for GTS 4 mini
 
 ## building
